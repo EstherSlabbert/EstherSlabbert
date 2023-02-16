@@ -19,6 +19,16 @@ Hi, my name is Esther Slabbert.
 I have learnt python, SQL, and SQLite with a focus on data science.
 
 To reach me:
+
+
 [LinkedIn](https://www.linkedin.com/in/esther-slabbert-b7a027255/)
-[HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/109716/)
+
+
 email: super.ejs@gmail.com
+
+
+My portfolio work:
+
+
+
+[HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/109716/)
