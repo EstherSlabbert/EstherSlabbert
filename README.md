@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi, my name is Esther Slabbert.
 
-I have learnt python, SQL, and SQLite with a focus on data science.
+I have learnt Python, SQL, and SQLite with a focus on data science.
 
 To reach me:
 
