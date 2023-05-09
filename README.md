@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 Hi, my name is Esther Slabbert.
 
-I have learnt Python, SQL, and SQLite with a focus on data science.
+I have learnt Python, SQL, and SQLite with a focus on data science during a Data Science bootcamp with HyperionDev.
+I am currently learning coding with a focus on DevOps as a Sparta Trainee at Sparta Global.
 
 To reach me:
 
