@@ -22,10 +22,10 @@ I am currently learning coding with a focus on DevOps as a Sparta Trainee at Spa
 To reach me:
 
 
-[LinkedIn](https://www.linkedin.com/in/esther-slabbert-b7a027255/)
+[LinkedIn profile](https://www.linkedin.com/in/esther-slabbert-b7a027255/)
 
 
-email: super.ejs@gmail.com
+[Email address](super.ejs@gmail.com)
 
 
 My portfolio work:
