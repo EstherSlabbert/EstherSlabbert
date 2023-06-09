@@ -76,7 +76,7 @@ I am currently training as a Junior DevOps Engineer at Sparta Global.
 
 [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/109716/)
 
-## Find me gaming:
+## Ask to join me gaming:
 
 ![Epic Games](https://img.shields.io/badge/Epic%20Games%20Fortnite-313131?style=flat&logo=Epic%20Gamese&logoColor=white) <!-- Winnowrook -->
 ![HoYoverse](https://img.shields.io/badge/HoYoverse%20Genshin%20Impact-2496ED?style=flat&logo=miHoyo&logoColor=pink) <!-- Winnowrook -->
