@@ -70,7 +70,7 @@ I am currently training as a Junior DevOps Engineer at Sparta Global.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/esther-slabbert-b7a027255/)
 
-[![Email](https://img.shields.io/badge/-Email-EE0001?style=flat&logo=Gmail&logoColor=white)](super.ejs@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EE0001?style=flat&logo=Gmail&logoColor=white)](mailto:super.ejs@gmail.com)
 
 ## My portfolio work:
 
