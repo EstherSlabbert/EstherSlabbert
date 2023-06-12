@@ -1,4 +1,4 @@
-## Hello
+## Introduction
 
 <!--
 **EstherSlabbert/EstherSlabbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Esther.
+Hello. My name is Esther.
 
-I have successfully completed a Data Science bootcamp with HyperionDev.
-I am currently training as a Junior DevOps Engineer at Sparta Global.
+I have successfully completed a Data Science bootcamp with HyperionDev where I worked with Python (mostly Jupyter Notebook in the VS Code IDE), SQL, SQLite3 and a bit of Tableau to interact with data and build some projects.
+I am currently training as a Junior DevOps Engineer at Sparta Global where I have worked with a variety of tools and operating systems, including Python, VisualStudio Code, Git & GitHub, Vagrant & VirtualBox, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS.
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstherSlabbert&theme=blue-green) -->
 
