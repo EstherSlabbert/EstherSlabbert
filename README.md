@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 Hello. My name is Esther.
 
-I have successfully completed a Data Science bootcamp with HyperionDev where I worked with Python (mostly Jupyter Notebook in the VS Code IDE), SQL, SQLite3 and a bit of Tableau to interact with data and build some projects.
-I am currently training as a Junior DevOps Engineer at Sparta Global where I have worked with a variety of tools and operating systems, including Python, VisualStudio Code, Git & GitHub, Vagrant & VirtualBox, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS.
+- 🎓 Past coding experience: I have successfully completed a Data Science bootcamp with HyperionDev where I worked with Python (mostly Jupyter Notebook in the VS Code IDE), SQL, SQLite3 and a bit of Tableau to interact with data and build some projects.
+- 🌱 I am currently a Junior DevOps Engineer at Sparta Global where I have worked with a variety of tools and operating systems, including Python, VisualStudio Code, Git & GitHub, Vagrant & VirtualBox, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS.
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstherSlabbert&theme=blue-green) -->
 
@@ -25,36 +25,39 @@ I am currently training as a Junior DevOps Engineer at Sparta Global where I hav
 
 ### Tools:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
-![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-5C2D91?style=flat&logo=jupyter&logoColor=orange)
-![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4479A1?style=flat&logo=MONGODB&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623Ce4?style=flat&logo=Terraform&logoColor=white)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat&logo=Vagrant&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?flat&logo=markdown&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-<!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?style=flat&logo=Kubernetes&logoColor=white) -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow) 
+![YAML](https://img.shields.io/badge/-YAML-grey?style=flat&logo=yaml&logoColor=red) 
+![JSON](https://img.shields.io/badge/-JSON-darkblue?style=flat&logo=json&logoColor=blue) 
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-5C2D91?style=flat&logo=jupyter&logoColor=orange) 
+![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) 
+![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-E8E7D5?style=flat&logo=MONGODB&logoColor=3FA037) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-d24939?style=flat&logo=Jenkins&logoColor=f7f1da) 
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white) 
+![Terraform](https://img.shields.io/badge/-Terraform-623Ce4?style=flat&logo=Terraform&logoColor=white) 
+![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat&logo=Vagrant&logoColor=white) 
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-2E3156?style=flat&logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-000000?flat&logo=markdown&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?style=flat&logo=Kubernetes&logoColor=white) 
 
 ### Cloud Service Providers:
 
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=White)
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
 
 ### Operating Systems:
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![Microsoft Windows](https://img.shields.io/badge/-Microsoft%20Windows-6264A7?style=flat&logo=Microsoft%20Windows&logoColor=microsoft-windows)
+![Microsoft Windows](https://img.shields.io/badge/-Microsoft%20Windows-6264A7?style=flat&logo=Windows&logoColor=microsoft-windows)
 
 ### Frameworks and Methodologies:
 
-![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat&logo=Agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-2496ED?style=flat&logo=Scrum&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-2496ED?style=flat&logo=scrum&logoColor=white)
 
 ### Microsoft 365:
 
