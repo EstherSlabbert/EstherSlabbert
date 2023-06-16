@@ -1,4 +1,4 @@
-## Introduction
+### Hi, my name is Esther.
 
 <!--
 **EstherSlabbert/EstherSlabbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello. My name is Esther.
+## Background
 
 - 🎓 Past coding experience: I have successfully completed a Data Science bootcamp with HyperionDev where I worked with Python (mostly Jupyter Notebook in the VS Code IDE), SQL, SQLite3 and a bit of Tableau to interact with data and build some projects.
 - 🌱 I am currently a Junior DevOps Engineer at Sparta Global where I have worked with a variety of tools and operating systems, including Python, VisualStudio Code, Git & GitHub, Vagrant & VirtualBox, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS.
@@ -23,26 +23,27 @@ Hello. My name is Esther.
 
 ## Technical Skills
 
-### Tools:
+### Tools and languages:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow) 
-![YAML](https://img.shields.io/badge/-YAML-grey?style=flat&logo=yaml&logoColor=red) 
-![JSON](https://img.shields.io/badge/-JSON-darkblue?style=flat&logo=json&logoColor=blue) 
+![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=FFD43B) 
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-5C2D91?style=flat&logo=jupyter&logoColor=orange) 
-![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
+![SQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=MySQL&logoColor=F29111) 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) 
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white) 
+![JSON](https://img.shields.io/badge/-JSON-darkblue?style=flat&logo=json&logoColor=blue) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E8E7D5?style=flat&logo=MONGODB&logoColor=3FA037) 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-d24939?style=flat&logo=Jenkins&logoColor=f7f1da) 
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white) 
-![Terraform](https://img.shields.io/badge/-Terraform-623Ce4?style=flat&logo=Terraform&logoColor=white) 
-![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat&logo=Vagrant&logoColor=white) 
+![YAML](https://img.shields.io/badge/-YAML-grey?style=flat&logo=yaml&logoColor=red) 
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white) 
+![HCL](https://img.shields.io/badge/-HashiCorp%20Configuration%20Language-darkblue?style=flat&logo=hcl&logoColor=lightblue) 
+![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?style=flat&logo=Vagrant&logoColor=white) 
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-2E3156?style=flat&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) 
-![Markdown](https://img.shields.io/badge/Markdown-000000?flat&logo=markdown&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?style=flat&logo=Kubernetes&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-005073?flat&logo=markdown&logoColor=e8702a) 
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=Docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-3970e4?style=flat&logo=Kubernetes&logoColor=white) 
 
 ### Cloud Service Providers:
 
@@ -79,7 +80,7 @@ Hello. My name is Esther.
 
 [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/109716/)
 
-## Ask to join me gaming:
+## Gamer with:
 
 ![Epic Games](https://img.shields.io/badge/Epic%20Games%20Fortnite-313131?style=flat&logo=Epic%20Gamese&logoColor=white) <!-- Winnowrook -->
 ![HoYoverse](https://img.shields.io/badge/HoYoverse%20Genshin%20Impact-2496ED?style=flat&logo=miHoyo&logoColor=pink) <!-- Winnowrook -->
