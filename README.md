@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![Microsoft Windows](https://img.shields.io/badge/-Microsoft%20Windows-6264A7?style=flat&logo=Windows&logoColor=microsoft-windows)
+![Microsoft Windows](https://img.shields.io/badge/-Microsoft%20Windows-6264A7?style=flat&logo=Microsoft%20Windows&logoColor=microsoft-windows)
 
 ### Frameworks and Methodologies:
 
