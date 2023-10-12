@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Background
 
 - 🎓 Past coding experience: I have successfully completed a Data Science bootcamp with HyperionDev where I worked with Python (mostly Jupyter Notebook in the VS Code IDE), SQL, SQLite3 and a bit of Tableau to interact with data and build some projects.
-- 🌱 I am currently a Junior DevOps Engineer at Sparta Global 🏢 where I have worked with a variety of tools, languages, and operating systems, including Python, VisualStudio Code & PyCharm, Git & GitHub, Vagrant & VirtualBox, Nginx, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS.
+- 🌱 I am currently a Junior DevOps Engineer at Sparta Global 🏢 where I have worked with a variety of tools, languages, and operating systems, including Python, VisualStudio Code & PyCharm, Git & GitHub, Vagrant & VirtualBox, Nginx, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS. I am also learning to use the .NET framework with C#.
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstherSlabbert&theme=blue-green) -->
 
@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/Markdown-005073?flat&logo=markdown&logoColor=e8702a) 
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=Docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-3970e4?style=flat&logo=Kubernetes&logoColor=white) 
+![C#](https://img.shields.io/badge/-CSharp-A179DC?style=flat&logo=Csharp&logoColor=684D95)
+![dotnet](https://img.shields.io/badge/-.NET-E4DCF0?style=flat&logo=dotnet&logoColor=512bd4)
 <!-- ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-D22128?style=flat&logo=ApacheKafka&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
