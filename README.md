@@ -76,6 +76,8 @@ Libraries:
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=flat)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=flat)
 
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-ebebeb?style=flat&logo=microsoft%20azure&logoColor=2b88d8)
+
 ### Operating Systems 🗔:
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
