@@ -123,6 +123,8 @@ Libraries:
 
 [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/109716/)
 
+CodeWars Rank:
+
 ![CodeWars](https://www.codewars.com/users/Winnowrook/badges/micro)
 
 🔍 Additionally check out my GitHub repos.
