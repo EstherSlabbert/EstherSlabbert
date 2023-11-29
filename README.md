@@ -127,6 +127,15 @@ CodeWars Rank:
 
 ![CodeWars](https://www.codewars.com/users/Winnowrook/badges/micro)
 
+Microsoft Learn Trophies:
+
+[<img src = 'https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg' width=50 height=50>](https://learn.microsoft.com/api/achievements/share/en-us/EstherSlabbert-4860/3XZVRCZH?sharingId=81D80CA845E0250C)
+[<img src = 'https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-2.svg' width=50 height=50>](https://learn.microsoft.com/api/achievements/share/en-us/EstherSlabbert-4860/8RMXE5RW?sharingId=81D80CA845E0250C)
+[<img src = 'https://learn.microsoft.com/en-us/training/achievements/add-logic-c-sharp-console-applications.svg' width=50 height=50>](https://learn.microsoft.com/api/achievements/share/en-us/EstherSlabbert-4860/QDGNFWKE?sharingId=81D80CA845E0250C)
+[<img src ='https://learn.microsoft.com/en-us/training/achievements/csharp-data.svg' width=50 height=50>](https://learn.microsoft.com/api/achievements/share/en-us/EstherSlabbert-4860/WAPA3AZN?sharingId=81D80CA845E0250C)
+[<img src = 'https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-5.svg' width=50 height=50>](https://learn.microsoft.com/api/achievements/share/en-us/EstherSlabbert-4860/K5HUMTWB?sharingId=81D80CA845E0250C)
+<!--[<img src = 'https://learn.microsoft.com/en-us/training/achievements/debug-c-sharp-console-applications.svg' width=50 height=50>](https://learn.microsoft.com/api/achievements/share/en-us/EstherSlabbert-4860/?sharingId=81D80CA845E0250C)-->
+
 🔍 Additionally check out my GitHub repos.
 
 ## Gamer with 🎮:
