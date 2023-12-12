@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Background
 
 - 🎓 Past coding experience: I have successfully completed a Data Science bootcamp with HyperionDev where I worked with Python (mostly Jupyter Notebook in the VS Code IDE), SQL, SQLite3 and a bit of Tableau to interact with data and build some projects.
-- 🌱 I am currently a Junior DevOps Engineer at Sparta Global 🏢 where I have worked with a variety of tools, languages, and operating systems, including Python, VisualStudio Code & PyCharm, Git & GitHub, Vagrant & VirtualBox, Nginx, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS. I am also learning to use the .NET framework with C#.
+- 🌱 I am currently a Junior DevOps Engineer at Sparta Global 🏢 where I have worked with a variety of tools, languages, and operating systems, including Python, VisualStudio Code & PyCharm, Git & GitHub, Vagrant & VirtualBox, Nginx, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS. I am also learning to use the .NET framework with C# and JavaScript.
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstherSlabbert&theme=blue-green) -->
 
@@ -135,6 +135,8 @@ Microsoft Learn Trophies:
 [<img src ='https://learn.microsoft.com/en-us/training/achievements/csharp-data.svg' width=50 height=50>](https://learn.microsoft.com/api/achievements/share/en-us/EstherSlabbert-4860/WAPA3AZN?sharingId=81D80CA845E0250C)
 [<img src = 'https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-5.svg' width=50 height=50>](https://learn.microsoft.com/api/achievements/share/en-us/EstherSlabbert-4860/K5HUMTWB?sharingId=81D80CA845E0250C)
 [<img src = 'https://learn.microsoft.com/en-us/training/achievements/debug-c-sharp-console-applications.svg' width=50 height=50>](https://learn.microsoft.com/api/achievements/share/en-us/EstherSlabbert-4860/AQTLAQ27?sharingId=81D80CA845E0250C)
+
+[Foundational C# with Microsoft certification](https://www.freecodecamp.org/certification/fcc41b87696-8f40-434b-9afd-7e5996627dcf/foundational-c-sharp-with-microsoft)
 
 🔍 Additionally check out my GitHub repos.
 
