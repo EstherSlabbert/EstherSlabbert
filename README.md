@@ -138,6 +138,7 @@ Microsoft Learn Trophies:
 [<img src = 'https://learn.microsoft.com/en-us/training/achievements/debug-c-sharp-console-applications.svg' width=50 height=50>](https://learn.microsoft.com/api/achievements/share/en-us/EstherSlabbert-4860/AQTLAQ27?sharingId=81D80CA845E0250C)
 
 [Foundational C# with Microsoft certification](https://www.freecodecamp.org/certification/fcc41b87696-8f40-434b-9afd-7e5996627dcf/foundational-c-sharp-with-microsoft)
+[JavaScript Algorithms and Data Structures certification](https://www.freecodecamp.org/certification/fcc41b87696-8f40-434b-9afd-7e5996627dcf/javascript-algorithms-and-data-structures)
 
 🔍 Additionally check out my GitHub repos.
 
