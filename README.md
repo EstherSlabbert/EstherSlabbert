@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/-CSharp-A179DC?style=flat&logo=Csharp&logoColor=684D95)
 ![dotnet](https://img.shields.io/badge/-.NET-E4DCF0?style=flat&logo=dotnet&logoColor=512bd4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-fff?style=flat&logo=html5&logoColor=%e34c26)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=flat&logo=css3&logoColor=%fff)
 <!-- ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-D22128?style=flat&logo=ApacheKafka&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
