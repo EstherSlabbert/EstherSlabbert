@@ -103,7 +103,7 @@ Libraries:
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherSlabbert&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherSlabbert&size_weight=0.5&count_weight=0.5&layout=compact)
 
 ## To reach me 📫:
 
