@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Background
 
-- 🎓 Past coding experience: I have successfully completed a Data Science bootcamp with HyperionDev where I worked with Python (mostly Jupyter Notebook in the VS Code IDE), SQL, SQLite3 and a bit of Tableau to interact with data and build some projects.
-- 🌱 I am currently a Junior DevOps Engineer at Sparta Global 🏢 where I have worked with a variety of tools, languages, and operating systems, including Python, VisualStudio Code & PyCharm, Git & GitHub, Vagrant & VirtualBox, Nginx, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS, Microsoft Power BI. I am also learning to use the .NET framework with C#, HTML, CSS, JavaScript and React.
+- 🎓 Past coding experience: I have successfully completed a Data Science bootcamp with HyperionDev where I worked with Python (mostly Jupyter Notebook in the VS Code IDE), SQL, SQLite3 and a bit of Tableau to interact with data and build some projects. I have completed the Sparta Global DevOps training.
+- 🌱 I am currently a Junior DevOps Engineer for Sparta Global 🏢 where I have worked with a variety of tools, languages, and operating systems, including Python, VisualStudio Code & PyCharm, Git & GitHub, Vagrant & VirtualBox, Nginx, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS, Microsoft Power BI. I am also learning to use the .NET framework with C#, HTML, CSS, JavaScript and React, and Snowflake from my current contracted position at Schroders.
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstherSlabbert&theme=blue-green) -->
 
@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML-fff?style=flat&logo=html5&logoColor=%e34c26)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=flat&logo=css3&logoColor=%fff)
 ![React](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=61dbfb)
+![Snowflake](https://img.shields.io/badge/Snowflake-white?style=flat&logo=snowflake&logoColor=blue)
 <!-- ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-D22128?style=flat&logo=ApacheKafka&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
