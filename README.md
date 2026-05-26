@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Background
 
-- 🎓 Past coding experience: I have successfully completed a Data Science bootcamp with HyperionDev where I worked with Python (mostly Jupyter Notebook in the VS Code IDE), SQL, SQLite3 and a bit of Tableau to interact with data and build some projects. I have completed the Sparta Global DevOps training.
-- 🌱 I am currently a Junior DevOps Engineer for Sparta Global 🏢 where I have worked with a variety of tools, languages, and operating systems, including Python, VisualStudio Code & PyCharm, Git & GitHub, Vagrant & VirtualBox, Nginx, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS, Microsoft Power BI. I am also learning to use the .NET framework with C#, HTML, CSS, JavaScript and React, and Snowflake from my current contracted position at Schroders.
+- 🎓 Past coding experience: I have successfully completed a Data Science bootcamp with HyperionDev where I worked with Python (mostly Jupyter Notebook in the VS Code IDE), SQL, SQLite3 and a bit of Tableau to interact with data and build some projects. I have completed the Sparta Global DevOps training. I worked as a Junior DevOps Engineer for Sparta Global 🏢 where I have worked with a variety of tools, languages, and operating systems, including Python, VisualStudio Code & PyCharm, Git & GitHub, Vagrant & VirtualBox, Nginx, Jenkins, Ansible, Terraform, AWS, Windows OS and Linux Ubuntu OS, Microsoft Power BI.
+- 🪴I am currently an Associate Software Engineer at Schroders where I use the .NET framework, C#, HTML, CSS, JavaScript and React, and Snowflake.
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstherSlabbert&theme=blue-green) -->
 
